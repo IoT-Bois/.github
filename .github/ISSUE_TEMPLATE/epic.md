@@ -10,5 +10,4 @@ assignees: ''
 **Epic description**
 Describe your epic here
 
-**Linked issues**
-Reference your issues for the epic here
+**Note**: link your issues to this epic
