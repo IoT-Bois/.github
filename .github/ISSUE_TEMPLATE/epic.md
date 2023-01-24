@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Epic description**
+### Epic description
 Describe your epic here
 
 **Note**: link your issues to this epic
