@@ -10,4 +10,8 @@ assignees: ''
 ### Epic description
 Describe your epic here
 
-**Note**: link your issues to this epic
+**Issues**:
+```[tasklist]
+### Tasks
+- [ ] Add a draft title or issue reference here
+```
