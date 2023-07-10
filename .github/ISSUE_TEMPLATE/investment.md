@@ -1,6 +1,6 @@
 ---
 name: Investment
-about: Template for investment task, for a guideline check here: https://github.com/IoT-Bois/apperyWiki/blob/main/organizational/investment-spike.md
+about: "Template for investment task, for a guideline check here: https://github.com/IoT-Bois/apperyWiki/blob/main/organizational/investment-spike.md"
 title: "[Investment]: Title of your investment"
 labels: investment
 assignees: ''
