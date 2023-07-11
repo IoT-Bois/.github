@@ -1,9 +1,11 @@
 ---
 name: Lead
 about: "Template for new leads. Leads are potential customers."
-title: "[Lead]: Who is your lead about and why it's qualified as a lead (e.g. "GVB to make their Rauchmelder smart")
+title: "[Lead]: Who is your lead about and why it's qualified as a lead (e.g. 'GVB to make their Rauchmelder smart')"
 labels: lead
 assignees: ''
+projects: "projects/1"
+
 ---
 
 ### Lead description
