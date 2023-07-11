@@ -4,6 +4,7 @@ about: "Template for investment task, for a guideline check here: https://github
 title: "[Investment]: Title of your investment"
 labels: investment
 assignees: ''
+projects: "projects/1"
 
 ---
 
